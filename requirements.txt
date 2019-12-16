@@ -5,5 +5,4 @@ django-forms-bootstrap~=3.1.0
 gunicorn~=19.9.0
 psycopg2~=2.7.3.2
 dj-database-url~=0.4.2
-whitenoise~=5.0.1
-Python~=3.6.9
+whitenoise~=3.3.1
